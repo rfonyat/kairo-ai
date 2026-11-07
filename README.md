@@ -19,7 +19,7 @@ It works like a small research team that never gets tired:
   The result is a short watchlist where every stock comes with a plain-English explanation: why it's interesting,
   what would confirm it, and what could go wrong.
 - **During the trading day,** a monitoring service watches those stocks live and sends an alert to my phone within
-  seconds when one of them does something I care about.
+  seconds when one of them does something I need to know about.
 - **Over time,** everything it says is recorded before the outcome is known and scored afterwards, so I can see what
   actually works instead of trusting how confident it sounds.
 
