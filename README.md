@@ -6,7 +6,9 @@
 
 **📖 [System overview](docs/system-overview.md) · [Full details](docs/details.md)**
 
-<!-- Add a 60-90 second demo GIF or video here (tickers blurred) -->
+![KAIRO Overview](docs/screenshots/overview.png)
+
+<sub>The Overview page of KAIRO's desktop app. Setups and alerts are blurred. [More screenshots →](docs/screenshots/README.md)</sub>
 
 ## What is KAIRO?
 
