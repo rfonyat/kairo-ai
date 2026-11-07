@@ -6,10 +6,29 @@
 
 <!-- Add a 60-90 second demo GIF or video here (tickers blurred) -->
 
-## What it does
+## What is KAIRO?
 
-- 🔎 **Researches** thousands of US stocks every day and turns them into a short, explained watchlist, using AI agents
-  for chart vision and news research
+KAIRO is my personal **AI research assistant for swing trading** (buying stocks and holding them for days to weeks).
+Swing traders spend hours every night going through hundreds of charts and news stories, looking for the few stocks
+worth watching tomorrow. KAIRO does that work for me.
+
+It works like a small research team that never gets tired:
+
+- **Every evening,** AI agents go through the market the way an experienced trader would: they look at the charts
+  (as images, not just numbers), read the news behind each move, and check everything against a written rulebook.
+  The result is a short watchlist where every stock comes with a plain-English explanation: why it's interesting,
+  what would confirm it, and what could go wrong.
+- **During the trading day,** a monitoring service watches those stocks live and sends an alert to my phone within
+  seconds when one of them does something I care about.
+- **Over time,** everything it says is recorded before the outcome is known and scored afterwards, so I can see what
+  actually works instead of trusting how confident it sounds.
+
+I use it through my own desktop and phone app and a private chat bot. **It never places trades.** It finds, explains
+and watches, and I make every decision.
+
+## What it does, in short
+
+- 🔎 **Researches** thousands of US stocks every day and turns them into a short, explained watchlist
 - ⚡ **Monitors** live market data all day and alerts my phone within seconds
 - 📊 **Measures itself**: every output is logged before the outcome is known, then scored
 
