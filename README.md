@@ -4,6 +4,8 @@
 
 `Python` `Claude multi-agent` `PyTorch` `scikit-learn` `LightGBM` `SQLite` `WebSockets` `JavaScript / WebGL`
 
+**📖 [System overview](docs/system-overview.md) · [Full details](docs/details.md)**
+
 <!-- Add a 60-90 second demo GIF or video here (tickers blurred) -->
 
 ## What is KAIRO?
@@ -68,7 +70,11 @@ research, ML is one input, and everything is evaluated going forward.
 
 > Research project, in daily use. **Not proven profitable**, not a trading system. I make my own decisions.
 
-**More:** [System overview](docs/system-overview.md) · [Full details](docs/details.md)
+## 📖 Read more
+
+### 👉 [System overview](docs/system-overview.md): how the layers fit together
+
+### 👉 [Full details](docs/details.md): the engineering challenges, tech stack and research approach
 
 ---
 <sub>Trading rules, prompts, models and data are private. Not financial advice. © 2026 Rafael Fonyat. All rights reserved.</sub>
